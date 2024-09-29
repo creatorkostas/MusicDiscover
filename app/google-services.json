@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "496611565764",
+    "project_id": "musicdiscover-2e1dd",
+    "storage_bucket": "musicdiscover-2e1dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496611565764:android:04a70110dc406d180fa991",
+        "android_client_info": {
+          "package_name": "com.musicdiscover"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzaA2_7S5D3Sb3bTLaZr_3DMMLLvpMcig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MusicDiscover</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="lastName" translatable="false">Last Name</string>
+    <string name="firstName" translatable="false">First Name</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="title_activity_main2" translatable="false">MainActivity2</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="menu_transform" translatable="false">Transform</string>
+    <string name="menu_reflow" translatable="false">Reflow</string>
+    <string name="menu_slideshow" translatable="false">Slideshow</string>
+    <string name="menu_settings" translatable="false">Settings</string>
+
+    <string name="lorem_ipsum_title" translatable="false">Lorem Ipsum"</string>
+    <string name="lorem_ipsum" translatable="false">Lorem Ipsum is simply placeholder text of the printing and
+        typesetting industry. Lorem Ipsum has been the industry\'s standard placeholder text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book"
+    </string>
+    <string name="fab_content_description" translatable="false">Represents a view to invoke an action</string>
+    <string name="image_view_item_transform_content_description" translatable="false">Represents an image view in the
+        item
+    </string>
+    <string name="post_song_name_field">Song Name</string>
+    <string name="song_posted_successfully">Song posted successfully</string>
+    <string name="error_try_again">Something went wrong! Please try again</string>
+    <string name="post">Post</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_song_name">Please write a song!</string>
+    <string name="wrong_email_or_password">Wrong email or password!</string>
+    <string name="register_success">Resister was successful!\nPlease login!</string>
+    <string name="notifications_channel_name">MusicDiscover</string>
+    <string name="logout_error">There was an error! Please try again</string>
+    <string name="update_success">Info update successful!</string>
+    <string name="update">Update</string>
+</resources>
